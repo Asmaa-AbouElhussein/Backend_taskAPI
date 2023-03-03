@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "1yRZI5HjaF7zDPdw0pWalLT16DzYhLM2cOfQCM/7Deo=",
+  "Source": "TaskAPI",
+  "BasePath": "_content/TaskAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskAPI\\wwwroot",
+      "Source": "TaskAPI",
+      "ContentRoot": "F:\\TaskAPI\\TaskAPI\\wwwroot\\",
+      "BasePath": "_content/TaskAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\TaskAPI\\TaskAPI\\wwwroot\\product\\DefualtImage.png",
+      "SourceId": "TaskAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\TaskAPI\\TaskAPI\\wwwroot\\",
+      "BasePath": "_content/TaskAPI",
+      "RelativePath": "product/DefualtImage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\product\\DefualtImage.png"
+    }
+  ]
+}
